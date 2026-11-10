@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /cms/
+
+Sitemap: https://aaronlks.github.io/sitemap.xml
